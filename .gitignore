@@ -1,0 +1,11 @@
+.
+..
+...
+.bash_profile
+
+
+# env files
+*.env
+
+# virtual env
+/venv-bot
